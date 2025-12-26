@@ -1,0 +1,13 @@
+langgraph
+langchain-openai
+langchain
+pydantic
+requests
+langchain-core
+pytest
+python-dotenv
+langchain-google-genai
+google-generativeai
+django
+channels
+daphne
